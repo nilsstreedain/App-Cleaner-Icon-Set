@@ -1,7 +1,7 @@
 # App-Cleaner-Icon-Set
 
 ## About
-This is an alternate icon set of the [App Cleaner](https://freemacsoft.net/appcleaner/) application by [freemacsoft](https://freemacsoft.net). This icon set is designed to be compliant with modern macOS application icon design specifications introduced in macOS Big Sur. I've created this to make this application look more uniform on my system and I thought I'd share in case other's wanted it aswell.
+This is an alternate icon set of the [App Cleaner](https://freemacsoft.net/appcleaner/) application by [freemacsoft](https://freemacsoft.net). This icon set is designed to be compliant with modern macOS application icon design specifications introduced in macOS Big Sur. I've created this to make this application look more uniform on my system and I thought I'd share in case others wanted it aswell.
 
 ## How To Add Icon
 1. Navigate to the `/Applications` folder in macOS.
